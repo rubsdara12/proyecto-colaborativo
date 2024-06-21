@@ -1,0 +1,10 @@
+body{
+    background: radial-gradient(#f69d3c, #3f87a6) no-repeat;
+}
+.row>[class^="col"]{
+    border: 0.1em rgb(0, 0, 0) solid;
+}
+
+.altfila{
+    height: 100px;
+}
