@@ -1,4 +1,5 @@
 body{
+    height: 1150px;
     background: radial-gradient(#f69d3c, #3f87a6) no-repeat;
 }
 .row>[class^="col"]{
@@ -7,4 +8,28 @@ body{
 
 .altfila{
     height: 100px;
+}
+
+#imagen{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.fondo{
+    height: 1600px;
+    width: 50%;
+    opacity: 15%;
+    position: fixed;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.robotina{
+    width: 30%;
 }
