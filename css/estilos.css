@@ -1,5 +1,5 @@
 body{
-    height: 1150px;
+    /* height: 1150px; */
     background: radial-gradient(#f69d3c, #3f87a6) no-repeat;
 }
 .row>[class^="col"]{
